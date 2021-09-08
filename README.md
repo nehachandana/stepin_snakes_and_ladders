@@ -15,3 +15,5 @@ Snakes and ladders, known originally as Moksha Patam, is an ancient Indian board
 ![C/C++ CI - Build Status](https://www.code-inspector.com/project/28076/score/svg)
 
 ![C/C++ CI - Build Status](https://www.code-inspector.com/project/28076/status/svg)
+
+https://app.codacy.com/gh/nehachandana/stepin_snakes_and_ladders/dashboard
