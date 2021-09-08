@@ -6,25 +6,27 @@ Snakes and ladders, known originally as Moksha Patam, is an ancient Indian board
 
 # **Research**
 
-
 ## Equipment
-
 
 - The size of the grid most commonly used in snakes and ladders is 8x8 with maximum square value of 64, 10x10 with a maximum square value of 100 or 12x12 with a maximum square value of 144.
 - Each player is represented by a piece token and a die is rolled to determine the random movements of a player's token.
+
 ## History
+
 - Snakes and ladders originated in India as part of a family of dice board games that included gyan chauper and pachisi.
 - The game made its way to England and was sold as "Snakes and Ladders". Then the basic concept was introduced in the United States as _Chutes_ and _Ladders_  by game publisher Milton Bradley Company in 1943.
 - In India, the game is often played by devotees of Hindu god Vishnu during the Vaikuntha Ekadashi festival in order to stay awake during the night.
+
 ## Variations
+
 - Different variations of exist like, if the die roll is too large when a player is close to winning, the token either remains in place or goes off the final square and back again.
 
    ![lead-snakes55rt](https://user-images.githubusercontent.com/89703188/132404421-2be25341-1719-4c7b-8440-08b474444404.jpg)
-
-        
     
   # SWOT Analysis
+  
   ## Strengths
+  
   1. A very quick and simple game.
   2. Can be played by people of any age group.
   3. Helps children practice counting and adding.
