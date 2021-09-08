@@ -20,4 +20,5 @@ https://www.code-inspector.com/project/28076/status/svg
 
 https://app.codacy.com/gh/nehachandana/stepin_snakes_and_ladders/dashboard?branch=main
 
-!code quality score (https://www.code-inspector.com/project/28076/score/svg)
+Code quality score 
+[![C/C++ CI - Build Status](https://www.code-inspector.com/project/28076/score/svg)
