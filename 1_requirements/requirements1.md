@@ -2,14 +2,7 @@
 
 ## Introduction
 
-- Snakes and ladders, known originally as Moksha Patam, is an ancient Indian board game for two or more players regarded today as a worldwide classic which is played on a game board with numbered, gridded squares.
-
-- It is a fun and an intresting game played by all age groups.  
-
-- A number of "snakes" and "ladders" are pictured on the board, each connecting two specefic squares. 
-- The objective of the game is to navigate the player's game piece based the output of a die roll, from start to finish. The players comes across many snakes and ladders at different squares. The ladders help the players to climb to a higher numbered square while the snakes decrease to a lower number square. 
-- The player who makes it to the last square first wins the game.
-- The program written for this project, although doesn't actually provide a board to play, but uses the same logic for digital implementation of the game, with a maximum of 2 players.
+Snakes and ladders, known originally as Moksha Patam, is an ancient Indian board game for two or more players regarded today as a worldwide classic which is played on a game board with numbered, gridded squares. It is a fun and an intresting game played by all age groups. A number of "snakes" and "ladders" are pictured on the board, each connecting two specefic squares. The objective of the game is to navigate the player's game piece based the output of a die roll, from start to finish. The players comes across many snakes and ladders at different squares. The ladders help the players to climb to a higher numbered square while the snakes decrease to a lower number square. The player who makes it to the last square first wins the game. The program written for this project, although doesn't actually provide a board to play, but uses the same logic for digital implementation of the game, with a maximum of 2 players.
 
 # **Research**
 
